@@ -32,13 +32,14 @@
 	})
 	layer.add(bg);
 	layer.add(rect);
-	
+
 
 	//以下为必须写入的函数
 	sfc.Director.stageChange(stage);//加入舞台
 
 	try{
 		sfc.Director.main();
+		//heiheihei
 	}catch(e){
 		console.error(e)
 	}
