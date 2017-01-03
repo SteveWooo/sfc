@@ -1,6 +1,5 @@
 #1. 开始
 
-###git clone https://git.coding.net/SteveWoo/SfcUI.git
 ###在app.js里面填充如下：（demo）
 
 	(function(){
